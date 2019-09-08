@@ -1,11 +1,4 @@
-GEM
-  remote: https://rubygems.org/
-  specs:
+# A sample Gemfile
+source "https://rubygems.org"
 
-PLATFORMS
-  ruby
-
-DEPENDENCIES
-
-BUNDLED WITH
-   2.0.1
+# gem "rails"

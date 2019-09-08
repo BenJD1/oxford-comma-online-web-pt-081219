@@ -1,4 +1,11 @@
-# A sample Gemfile
-source "https://rubygems.org"
+GEM
+  remote: https://rubygems.org/
+  specs:
 
-# gem "rails"
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+
+BUNDLED WITH
+   2.0.1
